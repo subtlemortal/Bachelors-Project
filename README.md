@@ -82,4 +82,10 @@ This project implements a system to detect signs of depression using both textua
 - [Hugging Face](https://huggingface.co/) for pre-trained models.
 - Mental health professionals for their guidance and insights.
 
+Contact
 
+For any questions or support, please contact:
+
+shantanuundepatil@gmail.com
+
+GitHub: subtlemortal
